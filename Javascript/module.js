@@ -1,0 +1,2 @@
+//setter syntax
+var app = angular.module('myModule', ['ngRoute']);

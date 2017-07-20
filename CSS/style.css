@@ -1,0 +1,43 @@
+body {
+background-color: grey;
+}
+
+
+.cat {
+margin-left: 657px;
+width: 78px;
+height:78px;}
+
+.cat img:hover {
+  opacity: .5;
+
+}
+
+.words {
+  position: relative;
+  color: white;
+}
+
+.Dwords {
+  position: relative;
+  color: white;
+}
+
+.dog {
+  width: 78px;
+  height:78px;
+
+}
+
+.dog img:hover {
+  opacity: .5;
+}
+
+.dog2 {
+  margin-left: 35px;
+}
+
+
+.cat2 {
+  margin-left: 600px;
+}
